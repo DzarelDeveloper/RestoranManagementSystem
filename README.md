@@ -18,7 +18,8 @@ This is a simple Restaurant Management System built using Python and Tkinter. It
 1.  **Prerequisites:** Make sure you have Python 3 installed on your system.
 2.  **Navigate to the project directory:** Open your terminal or command prompt and go to the directory where `run.py` is located.
     ```bash
-    cd /Users/dzarel/Desktop/Restoran Management System ( PYTHON )
+    git clone https://github.com/DzarelDeveloper/RestoranManagementSystem.git
+    cd RestoranManagementSystem
     ```
 3.  **Run the application:** Execute the `run.py` file using Python.
     ```bash
